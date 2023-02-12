@@ -13,4 +13,4 @@
 * Responsividade
 * Animações com Tailwind
 
-[Confira o resultado:]() 
+[Confira o resultado aqui](projeto-newsletter-9dmpiga0l-lucas-dias-aragao.vercel.app) 
